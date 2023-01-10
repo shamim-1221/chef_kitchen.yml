@@ -1,4 +1,15 @@
+## install chef
+##chef generate cookbook admin
+##tree
+##chef gem install kitchen-docker
+##edit kitchen.yml file
+##type:
+##  kitchen create
+##  kitchen list
+##  kitchen converge
+##  kitchen list
 ---
+
 driver:
   name: docker
 
